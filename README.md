@@ -1,6 +1,6 @@
 A node js provider agnostic logging lib.
 
-Currently winston is supported.
+Currently winston is supported:
 
 ```ts
 import * as myLogger from './index';
